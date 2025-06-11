@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"domein","l":"DomeinController"},{"p":"domein","l":"Spel"},{"p":"domein","l":"Speler"},{"p":"domein","l":"SpelerRepository"},{"p":"domein","l":"spelerSpel"},{"p":"domein","l":"spelGrid"},{"p":"domein","l":"Tile"},{"p":"domein","l":"TilePair"}];updateSearchResults();
